@@ -1,12 +1,13 @@
-main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-    children:
-      - title: "Sample"
-        url: /categories/sample/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+header:
+  navigation:
+    - title: "Posts"
+      url: /posts/
+    - title: "Categories"
+      url: /categories/
+      children:
+        - title: "Sample"
+          url: /categories/sample/
+    - title: "Tags"
+      url: /tags/
+    - title: "About"
+      url: /about/
