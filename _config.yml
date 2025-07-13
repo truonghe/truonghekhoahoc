@@ -35,14 +35,14 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 #navigation
 # In _config.yml
-main:
-  - navigation
+#main:
+#  - navigation
 # _config.yml
 header:
   navigation: true
 # In _config.yml
-navigation:
-  main: _data/navigation.yml
+#navigation:
+#  main: _data/navigation.yml
 
 include:
   - _pages
